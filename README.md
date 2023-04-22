@@ -1,11 +1,11 @@
 <p align="center">  
-<img src="https://media.discordapp.net/attachments/869807976771366952/881583327860129792/image6.jpg?width=599&height=330">
+<img src="[https://media.discordapp.net/attachments/869807976771366952/881583327860129792/image6.jpg?width=599&height=330](https://media.discordapp.net/attachments/869807976771366952/879688557655121981/image0.jpg?width=598&height=198)">
 </p>
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=chdro&color=grey">
 </p>
     <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/575470708369391626.png"/>
+  <img src="https://discord.c99.nl/widget/theme-1/575470708369391626.png"/>
 </p>
 <div align="center">
     
