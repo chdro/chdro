@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="[https://media.discordapp.net/attachments/869807976771366952/881583327860129792/image6.jpg?width=599&height=330](https://media.discordapp.net/attachments/869807976771366952/879688557655121981/image0.jpg?width=598&height=198)">
+<img src="https://media.discordapp.net/attachments/869807976771366952/879688557655121981/image0.jpg?width=598&height=198">
 </p>
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=chdro&color=grey">
