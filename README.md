@@ -9,4 +9,4 @@
 </p>
 <div align="center">
     
-![wintrs stats](https://github-readme-stats.vercel.app/api?username=chdro&count_private=true&show_icons=true&theme=radical)
+![wintrs stats](https://github-readme-stats.vercel.app/api?username=Unclarified&count_private=true&show_icons=true&theme=radical)
